@@ -1,3 +1,9 @@
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	1. test new features.
+	2.  etc.
+
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
